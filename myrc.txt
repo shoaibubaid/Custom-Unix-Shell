@@ -1,0 +1,8 @@
+HOME /home/shoaib 
+USER shoaib 
+HOSTNAME shoaibpc 
+PATH /bin:/usr/bin:/sbin:/usr/sbin:/usr/local/bin:/usr/local/bin:/usr/local/sbin:/usr/local/sbin:/usr/X11R6/bin:/usr/bin/X11:/usr/games:/opt/bin:/opt/sbin: 
+VIDEO /usr/bin/vlc 
+SONG /usr/bin/vlc 
+PDF /usr/bin/evince 
+text /bin/nano 

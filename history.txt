@@ -1,0 +1,5 @@
+cd
+ls
+pwd
+echo hello worldexit
+quit
