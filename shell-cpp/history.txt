@@ -1,5 +1,0 @@
-pwd
-echo hello worldexit
-quit
-ls
-exit
